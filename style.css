@@ -163,7 +163,6 @@ footer {
     margin-top: 40px;
 }
 
-/* Адаптивность */
 @media (max-width: 768px) {
     .nav-links {
         gap: 15px;
